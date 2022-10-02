@@ -40,11 +40,11 @@ const HomePage = () => {
                 </tbody>
             </table>
       </div>
-      <div>
-            <div >
-                <div>
-                    <h2 >Superb 100% FREE calorie counter apps</h2>
-                    <p >Over 35 million people have lost weight with FatSecret. Start your weight loss journey today and access the world's highest quality food and nutrition database.</p>
+      <div className={styles.greenWall}>
+            <div className={styles.mainSection}>
+                <div className={styles.mainSectionInnerContent}>
+                    <h2 className={styles.whiteheaderText}>Superb 100% FREE calorie counter apps</h2>
+                    <p className={styles.whitesecondaryText}>Over 35 million people have lost weight with FatSecret. Start your weight loss journey today and access the world's highest quality food and nutrition database.</p>
                 </div>
             </div>
             <div >

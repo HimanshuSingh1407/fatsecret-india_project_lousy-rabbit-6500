@@ -60,4 +60,32 @@ body{
     color: #FFF;
     font-size: 15px;
 }
-
+.greenWall {
+    background-color: #32B34C;
+    min-width: 1030px;
+}
+.mainSection {
+    width: 1030px;
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    position: relative;
+}
+.mainSectionInnerContent {
+    margin: 0px auto;
+    position: relative;
+    width: 990px;
+}
+.whiteheaderText{
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+    color: #FFF;
+    font-size: 43px;
+}
+.whitesecondaryText{
+    padding-top: 14px;
+    color: #FFF;
+    font-size: 21px;
+    line-height: 35px;
+}
