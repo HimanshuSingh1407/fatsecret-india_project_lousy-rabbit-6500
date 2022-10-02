@@ -1,0 +1,91 @@
+body{
+    background-color: #fff;
+    font-family: Helvetica,Arial;
+    font-size: 13px;
+    margin: 0;
+    overflow-y: scroll;
+    background-image: url(https://a.ftscrt.com/static/images/splash/Sunrise_BG_01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left 0px;
+    background-color: #111;
+    min-width: 1030px;
+}
+
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    
+}
+.Navlink{
+    text-decoration: none;
+    color: white;
+}
+
+/* Homepage */
+.blackWall{
+   
+    /* height: 500px; */
+}
+
+.headerTextStyle{
+    font-weight: normal;
+    margin-right: 100px;
+    padding: 0px;
+    height: 73px;
+    color: #FFF;
+    font-size: 43px;
+    display: block;  
+}
+.imgTag{
+    padding-bottom: 46px;
+}
+.buttongreenButton {
+    color: White;
+    background-color: #32B34C;
+    border: 1px solid #336F3F;
+    font-weight: bold;
+    font-size: 16px;
+    height: 43px;
+    width: 183px;
+    cursor: pointer;
+}
+.shadow-1{
+    margin-top: 17px;
+    height: 50px;
+    text-shadow: 1px 1px black;
+    color: #FFF;
+    font-size: 15px;
+}
+.greenWall {
+    background-color: #32B34C;
+    min-width: 1030px;
+}
+.mainSection {
+    width: 1030px;
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    position: relative;
+}
+.mainSectionInnerContent {
+    margin: 0px auto;
+    position: relative;
+    width: 990px;
+}
+.whiteheaderText{
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+    color: #FFF;
+    font-size: 43px;
+}
+.whitesecondaryText{
+    padding-top: 14px;
+    color: #FFF;
+    font-size: 21px;
+    line-height: 35px;
+}
